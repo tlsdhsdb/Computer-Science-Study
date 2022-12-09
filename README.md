@@ -21,12 +21,14 @@ PT자료와 퀴즈는 github에 같이 올려주세요.
 
 ## File Name
 
-Onyoo*주제명\_PT
-Onyoo*주제명\_quiz
+Onyoo_주제명_PT
+
+Onyoo_주제명_quiz
 
 파일형식은 항상 pdf로 통일해주세요
 
 ## Commit Message
 
 (PT) 주제명
+
 (Quiz) 주제명
